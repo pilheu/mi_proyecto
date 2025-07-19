@@ -1,3 +1,3 @@
 # mi_proyecto
 
-Alumno: Pablo
+Alumno: Pablo.
